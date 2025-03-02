@@ -51,10 +51,10 @@
 🥗 A full-stack web app with React, Node.js, and MongoDB for online food reservations with scheduled pickups.
 
 ### 🔹 [Game Library Website](https://github.com/MithunKumar04/Game_Center_REACT)  
-🎮 A full-stack web application with Admin & User login using React, Node.js, and MongoDB.  
+🎮 A full-stack web application with Admin & User login using React, Node.js, and MongoDB for viewing and acessing game details.  
 
 ### 🔹 [Car Price Prediction](https://github.com/MithunKumar04/Car_price_prediction_REGRESSION)  
-🚗 Uses facial recognition for attendance tracking in a hostel management system.  
+🚗 Developed and fine-tuned machine learning models for accurate car price prediction, ensuring scalability and efficiency.
 
 🔗 More projects on my [GitHub Repositories](https://github.com/MithunKumar04)
  
