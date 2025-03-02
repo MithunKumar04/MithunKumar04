@@ -64,8 +64,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mithunkumar04&show_icons=true&theme=radical" alt="Mithun's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithunkumar04&theme=radical" alt="Mithun's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mithunkumar04&show_icons=true&theme=radical" alt="Mithun's GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithunkumar04&theme=radical" alt="Mithun's GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithunkumar04&layout=compact&theme=radical" alt="Mithun's Top Languages" />
 </p>
 
